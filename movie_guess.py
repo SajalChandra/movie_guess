@@ -5,7 +5,7 @@ from urllib.request import urlopen
 import random
 
 #introduction
-print('Hello and welcome to the Movie Guessing game BOIIIIIII')
+print('Hello and welcome to the Movie Guessing game!')
 print('You have to guess the name of the following movie. All your guesses should be either lower case alphabets or numeric')
 print('Your can quit the game at any point by typing \'quit\' and hitting enter. You won\'t be evaluated if you do so')
 print('Best of Luck!')
